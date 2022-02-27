@@ -1,0 +1,35 @@
+.thirdCard {
+    background-image: url("../../../public/assets/img/statsBg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    padding: 10px 15px 15px 15px;
+    margin: 50px 50px 50px 50px;
+}
+
+.stat_row {
+    margin-bottom: 2vh;
+}
+
+.stat_row_head{
+    background-image: url("../../../public/assets/img/bannerScroll.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 65px;
+    color: goldenrod;
+}
+
+#title {
+    margin-top: 60px;
+}
+
+.txt_desc {
+    width: 25%;
+}
+
+.title_desc {
+    margin-left: 15px;
+}

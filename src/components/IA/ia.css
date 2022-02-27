@@ -1,0 +1,6 @@
+.ia {
+    --size: 32px;
+    position: absolute;
+    pointer-events: none;
+    z-index: 1;
+}

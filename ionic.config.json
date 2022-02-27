@@ -1,0 +1,7 @@
+{
+  "name": "legaufGame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,5 @@
+.joueur {
+    --size: 32px;
+    position: absolute;
+    z-index: 1;
+}
